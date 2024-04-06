@@ -10,8 +10,12 @@ sudo apt install nodejs -y
 
 sudo apt-get install -y postgresql
 
+node -v
+
+sudo apt install redis-server
+
 sudo systemctl enable postgresql
 
-sudo systemctl status postgresql
+sudo systemctl status redis
 
-node -v
+sudo systemctl status postgresql
