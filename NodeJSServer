@@ -1,0 +1,17 @@
+#!/bin/bash
+
+sudo apt install update -y
+
+sudo apt install upgrade -y
+
+curl -s https://deb.nodesource.com/setup_18.x | sudo bash
+
+sudo apt install nodejs -y
+
+sudo apt-get install -y postgresql
+
+sudo systemctl enable postgresql
+
+sudo systemctl status postgresql
+
+node -v
