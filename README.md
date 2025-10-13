@@ -3,3 +3,4 @@ Ide Scriptsi
 - Truenas with wireguard
 - Free, OpenSource, Secure & Legal Office Needs
 - FnB own app system planning 
+- Incus (Community Driven LXD)
