@@ -1,5 +1,6 @@
 Ide Scriptsi
 - Paperless System on a distribution company also the mobile application
+- Distribution App/Web App but with paperless system (because i hate printers so much)
 - Truenas with wireguard
 - Free, OpenSource, Secure & Legal Office Needs
 - FnB own app system planning 
