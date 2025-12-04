@@ -8,3 +8,4 @@ Ide Scriptsi
 - making dhcp server without a router, but using a pc as a router/dhcp server for optimal performance
 - mobile version of mr patrick with full JS and interactive responsiveness
 - Containerd implementasi
+- why vulkan api more reliable than directx and opengl
