@@ -9,4 +9,4 @@ Ide Scriptsi
 - mobile version of mr patrick with full JS and interactive responsiveness
 - Containerd implementation
 - why vulkan api more reliable than directx and opengl
-- Making an FnB app of my own payment gateway and delivery system.
+- Making an FnB app and my own payment gateway and delivery system.
